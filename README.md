@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-**shadowelite-sec/shadowelite-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ```
 $echo "A Cyber Security Enthusiast👨‍💻"
 ```
    <img src="https://github.com/shadowelite-sec/shadowelite-sec/blob/main/file_53643726.png" align="right" width="25%"/>
-- **$("I ❤️ 🐧")**<br/>
+- $("I ❤️ 🐧")<br/>
 - am using android btw $("🐉")<br/>
 - Nothing more 😜<br/>
 
