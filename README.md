@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 $echo "A Cyber Security Enthusiast👨‍💻"
 ```
    <img src="https://github.com/shadowelite-sec/shadowelite-sec/blob/main/file_53643726.png" align="right" width="25%"/>
-- <mark>$("I ❤️ 🐧")</mark><br/>
+- **$("I ❤️ 🐧")**<br/>
 - am using android btw $("🐉")<br/>
 - Nothing more 😜<br/>
 
