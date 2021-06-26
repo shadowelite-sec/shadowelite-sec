@@ -16,10 +16,5 @@ Here are some ideas to get you started:
 -->
 ```
 $echo "A Cyber Security Enthusiast👨‍💻"
-
-
-
-$("I ❤️ 🐧")
 ```
-  
-  <img src="https://github.com/shadowelite-sec/shadowelite-sec/blob/main/file_53643726.png" align="right" width="25%"/>
+   <img src="https://github.com/shadowelite-sec/shadowelite-sec/blob/main/file_53643726.png" align="right" width="25%"/>
